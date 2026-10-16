@@ -585,7 +585,7 @@ L 272.911484 328.662406
 " style="fill: none; stroke: #858585; stroke-width: 2.3; stroke-linecap: square"/>
    </g>
    <g id="text_24">
-    <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="283.311484" y="333.212406" transform="rotate(-0 283.311484 333.212406)">Transformer+TTT</text>
+    <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="283.311484" y="333.212406" transform="rotate(-0 283.311484 333.212406)">TTT-E2E</text>
    </g>
    <g id="line2d_47">
     <path d="M 421.568516 328.662406 
